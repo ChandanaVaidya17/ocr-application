@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### Overview into OCR application
+![ocr_home](https://github.com/ChandanaVaidya17/ocr-application/assets/83870380/f8285925-4de0-4476-9809-59872488ddec)
+
+this is a simple home page
+
+![ocr_upload](https://github.com/ChandanaVaidya17/ocr-application/assets/83870380/98f22012-97e5-4d7f-b82f-ad97bcf6f059)
+
+Uploading an image to scan text
+
+![ocr_result](https://github.com/ChandanaVaidya17/ocr-application/assets/83870380/6e674cd8-5830-4892-8e97-a6907d94bee5)
+
+the text in the image is described here as output
