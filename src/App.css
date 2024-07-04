@@ -12,17 +12,14 @@ body {
     font-size: 3rem;
     margin: 4rem 0 0 0;
   }
-
   .App p {
     color: white;
     font-size: 1.5rem;
   }
-
   .input-wrapper {
     color: white;
     position: relative;
   }
-
   .input-wrapper label {
     color: white;
     display: inline-block;
@@ -32,7 +29,6 @@ body {
     background: coral;
     color: #fff;
   }
-
   .input-wrapper input[type="file"] {
     position: absolute;
     left: 26px;
