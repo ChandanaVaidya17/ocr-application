@@ -28,6 +28,7 @@ body {
     background: coral;
     color: #fff;
   }
+
   .input-wrapper input[type="file"] {
     position: absolute;
     left: 26px;
