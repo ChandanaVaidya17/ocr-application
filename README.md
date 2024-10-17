@@ -70,9 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-
 ### Overview into OCR application
 ![ocr_home](https://github.com/ChandanaVaidya17/ocr-application/assets/83870380/f8285925-4de0-4476-9809-59872488ddec)
 
